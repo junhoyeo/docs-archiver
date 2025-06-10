@@ -4,6 +4,9 @@
 
 > A TypeScript-based tool that archives documentation websites into clean markdown files using [Anthropic API](https://docs.anthropic.com/en/api/client-sdks#typescript)
 
+> [!WARNING]
+> This package is under rapid development 🛠
+
 ## Setup
 
 1. Install dependencies:
