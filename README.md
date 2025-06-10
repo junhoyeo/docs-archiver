@@ -2,23 +2,23 @@
 
 ![Docs Archiver](./.github/cover.jpg)
 
-A TypeScript-based tool to archive documentation websites as markdown files.
+> A TypeScript-based tool that archives documentation websites into clean markdown files using Anthropic API
 
 ## Setup
 
 1. Install dependencies:
-```bash
-yarn install
-```
+    ```bash
+    yarn
+    ```
 
 2. Set up configuration:
-```bash
-cp .env.example .env
-# Edit .env and configure:
-# - ANTHROPIC_API_KEY (required)
-# - BASE_URL (documentation site base URL)
-# - START_URL (starting page for crawling)
-```
+    ```bash
+    cp .env.example .env
+    # Edit .env and configure:
+    # - ANTHROPIC_API_KEY (required)
+    # - BASE_URL (documentation site base URL)
+    # - START_URL (starting page for crawling)
+    ```
 
 Or export directly:
 ```bash
