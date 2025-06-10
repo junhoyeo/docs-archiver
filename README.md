@@ -1,5 +1,7 @@
 # Docs Archiver
 
+![Docs Archiver](./.github/cover.jpg)
+
 A TypeScript-based tool to archive documentation websites as markdown files.
 
 ## Setup
