@@ -2,7 +2,7 @@
 
 ![Docs Archiver](./.github/cover.jpg)
 
-> A TypeScript-based tool that archives documentation websites into clean markdown files using Anthropic API
+> A TypeScript-based tool that archives documentation websites into clean markdown files using [Anthropic API](https://docs.anthropic.com/en/api/client-sdks#typescript)
 
 ## Setup
 
